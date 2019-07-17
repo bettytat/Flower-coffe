@@ -1,9 +1,9 @@
-#hlavicka {
-    width: 100%; 
-    text-align: center;
-}
-
 body {
     background-color: pink;
     text-align: center;
+}
+
+
+.maly {
+    width: 1200px
 }
