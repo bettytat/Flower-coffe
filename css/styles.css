@@ -2,3 +2,7 @@
     width: 100%; 
     text-align: center;
 }
+
+body {
+    background-color: pink;
+}
