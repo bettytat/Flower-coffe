@@ -8,19 +8,17 @@ img {
     width: 600px
 }
 
-.kavarna {
+
+
+.col-7 {
     width: 350px;
     padding: 30px;
-    margin: auto;
-    border: 1px solid black;
+    border: 1px solid pink;
     background-color: white;
 }
-
-.skola {
+.col-5 {
     width: 350px;
     padding: 30px;
-    margin: auto;
-    border: 1px solid black;
+    border: 1px soli pink;
     background-color: plum;
 }
-
