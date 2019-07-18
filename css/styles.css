@@ -7,3 +7,19 @@ body {
 img {
     width: 600px
 }
+
+.kavarna {
+    width: 350px;
+    padding: 30px;
+    margin: auto;
+    border: 1px solid black;
+    background-color: white;
+}
+
+.skola {
+    width: 350px;
+    padding: 30px;
+    margin: auto;
+    border: 1px solid black;
+    background-color: plum;
+}
