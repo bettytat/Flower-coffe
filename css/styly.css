@@ -96,3 +96,17 @@ img {
   to {opacity: 1}
 }
 * {box-sizing:border-box}
+
+@media only screen and (max-width: 800px) {
+  #obrazekHlavicka
+  {
+    display: none;
+  }
+}
+@media only screen and (min-width: 800px){
+
+  #obrazekmaly
+  {
+    display:none;
+  }
+}
