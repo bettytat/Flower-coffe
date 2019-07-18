@@ -1,0 +1,27 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+    
+@media only screen and (max-width: 800px) {
+        #obrazekHlavicka
+        {
+          display: none;
+        }
+      }
+      @media only screen and (min-width: 800px){
+      
+        #obrazekmaly
+        {
+          display:none;
+        }
+      }
+      
+      @media only screen and (max-width: 400px){
+      
+        #obrazekmaly
+        {
+          max-width: 100%;
+        }
+        
+      }
